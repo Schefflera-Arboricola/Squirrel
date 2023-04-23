@@ -1,13 +1,17 @@
 <h1>Squirrel App</h1>
 
-It is a macOS desktop application made using Flutter. It's a games app for giving initial intuition to the players(learners) for the complex algorithms and concepts in math and computer science. It was made for a hackathon in December 2021. 
-
 <i>To run the app </i> : 
-    - clone the repo
-    - (basic setup)[https://docs.flutter.dev/get-started/install/macos]
-    - run `flutter run` in the root directory of the project.
+    <ul>
+    <li> clone the repo</li>
+    <li> (basic setup)[https://docs.flutter.dev/get-started/install/macos]</li>
+    <li> run `flutter run` in the root directory of the project.</li>
+    </ul>
+
+<br>
 
 UI/UX (figma) : https://www.figma.com/community/file/1231904666068784035/Squirrel
+
+<br>
 
 Description of one of the games(Salary offers) : 
 
@@ -15,6 +19,16 @@ Description of one of the games(Salary offers) :
 "Salary offers" game one of the that simulates a salary negotiation game where the user is presented with a series of 10 salary offers one by one and has to accept or reject each offer. At the end of the game, the user's score is calculated based on the ratio of their accepted salary to the maximum salary offered. This game can be used to build an initial intuition for the popular (hiring problem)[https://www.cs.upc.edu/~conrado/research/talks/sem-UCT-hiring.pdf] in computer science. 
 </p>
 
-Initial proposal : 
+<br>
+
+Initial proposal : https://github.com/Schefflera-Arboricola/Squirrel/blob/main/static/proposal.pdf
+<br>
+<br>
 Final app screenshots : 
 
+<img src="https://github.com/Schefflera-Arboricola/Squirrel/blob/main/static/final_ss/Screenshot%202023-04-23%20at%2011.07.58%20PM.png">
+<img src="https://github.com/Schefflera-Arboricola/Squirrel/blob/main/static/final_ss/Screenshot%202023-04-23%20at%2011.08.03%20PM.png">
+<img src="https://github.com/Schefflera-Arboricola/Squirrel/blob/main/static/final_ss/Screenshot%202023-04-23%20at%2011.08.08%20PM.png">
+<img src="https://github.com/Schefflera-Arboricola/Squirrel/blob/main/static/final_ss/Screenshot%202023-04-23%20at%2011.08.13%20PM.png">
+<img src="https://github.com/Schefflera-Arboricola/Squirrel/blob/main/static/final_ss/Screenshot%202023-04-23%20at%2011.08.19%20PM.png">
+<img src="https://github.com/Schefflera-Arboricola/Squirrel/blob/main/static/final_ss/Screenshot%202023-04-23%20at%2011.08.23%20PM.png">
