@@ -3,7 +3,7 @@
 <i>To run the app </i> : 
     <ul>
     <li> clone the repo</li>
-    <li> (basic setup)[https://docs.flutter.dev/get-started/install/macos]</li>
+    <li> <a href="https://docs.flutter.dev/get-started/install/macos">basic setup</a></li>
     <li> run `flutter run` in the root directory of the project.</li>
     </ul>
 
@@ -16,7 +16,7 @@ UI/UX (figma) : https://www.figma.com/community/file/1231904666068784035/Squirre
 Description of one of the games(Salary offers) : 
 
 <p>
-"Salary offers" game one of the that simulates a salary negotiation game where the user is presented with a series of 10 salary offers one by one and has to accept or reject each offer. At the end of the game, the user's score is calculated based on the ratio of their accepted salary to the maximum salary offered. This game can be used to build an initial intuition for the popular (hiring problem)[https://www.cs.upc.edu/~conrado/research/talks/sem-UCT-hiring.pdf] in computer science. 
+"Salary offers" is one of the games in the app that simulates a salary negotiation, where the user is presented with a series of 10 salary offers one by one and has to accept or reject each offer. At the end of the game, the user's score is calculated based on the ratio of their accepted salary to the maximum salary offered. This game can be used to build an initial intuition for the popular <a href="https://www.cs.upc.edu/~conrado/research/talks/sem-UCT-hiring.pdf">hiring problem</a> in computer science. 
 </p>
 
 <br>
